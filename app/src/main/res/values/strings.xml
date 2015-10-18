@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Intent Test</string>
+    <string name="title_activity_image_select">Image Select</string>
+    <string name="title_activity_contact_select">Contact Select</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_text_hash">Text SHA1</string>
+
+    <string name="button_image_select">Image Select</string>
+    <string name="button_login">Start Login</string>
+    <string name="button_upper">Text SHA1</string>
+
+    <string name="hint_sha1_textview">see the SHA1 hash here</string>
+    <string name="hint_sha1_input">input the text here</string>
+    
+    <string name="pass_login">Login Success</string>
+    <string name="cancel_login">Login Cancelled</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
